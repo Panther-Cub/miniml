@@ -1,0 +1,33 @@
+{
+  "name": "miniml",
+  "displayName": "Miniml",
+  "description": "It's a minimal dark color theme",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "publisher": "pantherandcub",
+  "keywords": [
+    "theme",
+    "dark",
+    "minimal",
+    "pantherandcub",
+    "flat",
+    "minimalist",
+    "colorful",
+    "material theme"
+  ],
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Miniml",
+        "uiTheme": "vs-dark",
+        "path": "./themes/miniml-color-theme.json"
+      }
+    ]
+  }
+}

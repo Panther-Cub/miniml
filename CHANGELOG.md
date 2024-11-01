@@ -2,8 +2,8 @@
 
 All notable changes to the "miniml" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.0.01] - 2024-11-01
 
-## [Unreleased]
-
-- Initial release
+### Changed
+- Chilled out the editor highlight. Not so extra anymore.
+- Chilled out active editor highlight. Less in your face.

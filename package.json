@@ -2,7 +2,7 @@
   "name": "miniml",
   "displayName": "Miniml",
   "description": "It's a minimal dark color theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "icon.png",
   "publisher": "pantherandcub",
   "keywords": [
@@ -29,5 +29,9 @@
         "path": "./themes/miniml-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Panther-Cub/miniml.git"
   }
 }

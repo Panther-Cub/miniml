@@ -1,8 +1,8 @@
 {
   "name": "miniml",
   "displayName": "Miniml",
-  "description": "It's a minimal dark color theme",
-  "version": "0.1.0",
+  "description": "A minimal flat yet colorful theme for vscode",
+  "version": "1.0.0",
   "icon": "icon.png",
   "publisher": "pantherandcub",
   "keywords": [
@@ -24,9 +24,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Miniml",
+        "label": "Miniml Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/miniml-color-theme.json"
+      },
+      {
+        "label": "Miniml Light",
+        "uiTheme": "vs",
+        "path": "./themes/miniml-light-color-theme.json"
       }
     ]
   },

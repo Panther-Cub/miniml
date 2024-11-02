@@ -13,7 +13,14 @@
     "flat",
     "minimalist",
     "colorful",
-    "material theme"
+    "material theme",
+    "minml",
+    "light theme",
+    "dark theme",
+    "miniml",
+    "flat theme",
+    "minimalistic"
+
   ],
   "engines": {
     "vscode": "^1.93.0"

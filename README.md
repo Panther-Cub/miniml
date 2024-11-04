@@ -1,12 +1,12 @@
 # Miniml Theme
 
-Working on a theme based off of Flat GOOI Material theme. Will probably be changing around a bit. Eitherway.. 
+Working on a series of themes based off of Flat GOOI Material theme. Will probably be changing them around a bit.
 
-A minimalist VS Code theme that emphasizes readability with carefully chosen colors and subtle contrasts. Designed for developers who appreciate clean aesthetics without sacrificing functionality.
+Minimalistic VS Code themes that emphasizes readability with carefully chosen colors and subtle contrasts. Designed for developers who appreciate clean aesthetics without sacrificing functionality.
 
 ## Features
 
-- 🎨 Thoughtfully selected color palette
+- 🎨 Thoughtfully selected color palettes
 - 👀 Enhanced readability for long coding sessions
 - 🎯 Clear distinction between different code elements
 - 🌙 Deep, comfortable background for reduced eye strain
@@ -20,4 +20,4 @@ A minimalist VS Code theme that emphasizes readability with carefully chosen col
 3. Search for "Miniml Theme"
 4. Click Install
 5. Press Ctrl+K Ctrl+T (Cmd+K Cmd+T on macOS) to open the theme selector
-6. Select "Miniml" from the list
+6. Select a theme from the dropdown menu

@@ -37,7 +37,7 @@
       {
         "label": "Miniml Midnight",
         "uiTheme": "vs-dark",
-        "path": "./themes/miniml-midnight-theme.json"
+        "path": "./themes/miniml-midnight-color-theme.json"
       },
       {
         "label": "Miniml Light",

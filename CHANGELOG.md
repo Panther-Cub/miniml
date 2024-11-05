@@ -2,7 +2,14 @@
 
 All notable changes to the "miniml" extension will be documented in this file.
 
-## [2.0.0] - 2024-11-01
+## [4.1.0] - 2024-11-05
+
+Midnight Theme
+- Chilled out foreground opacities
+- Also had borders take a chill pill
+- Added a couple new borders
+
+## [4.0.0] - 2024-11-01
 
 Added a new theme
 - Miniml Midnight

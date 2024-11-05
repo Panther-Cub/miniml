@@ -4,6 +4,9 @@ Working on a series of themes based off of Flat GOOI Material theme. Will probab
 
 Minimalistic VS Code themes that emphasizes readability with carefully chosen colors and subtle contrasts. Designed for developers who appreciate clean aesthetics without sacrificing functionality.
 
+## Your imput
+Open to suggestions and modifications. Let me know if you find any issues!
+
 ## Features
 
 - 🎨 Thoughtfully selected color palettes

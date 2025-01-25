@@ -2,6 +2,11 @@
 
 All notable changes to the "miniml" extension will be documented in this file.
 
+## [4.2.0] - 2025-12-25
+
+- General Overalhaul. New themes, ability to choose with borders or with out. 
+- Better text color logic
+
 ## [4.1.0] - 2024-11-05
 
 Midnight Theme

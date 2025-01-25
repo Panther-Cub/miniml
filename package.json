@@ -2,7 +2,7 @@
   "name": "miniml",
   "displayName": "Miniml",
   "description": "Minimalistic yet colorful themes for vscode",
-  "version": "4.2.0",
+  "version": "4.3.0",
   "icon": "icon.png",
   "publisher": "pantherandcub",
   "keywords": [
@@ -30,17 +30,27 @@
   "contributes": {
     "themes": [
       {
-        "label": "Miniml Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/miniml-color-theme.json"
-      },
-      {
         "label": "Miniml Midnight",
         "uiTheme": "vs-dark",
         "path": "./themes/miniml-midnight-color-theme.json"
       },
       {
-        "label": "Miniml Light",
+        "label": "Miniml Midnight (-)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/miniml-midnight-minus-color-theme.json"
+      },
+      {
+        "label": "Miniml Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/miniml-dusk-color-theme.json"
+      },
+      {
+        "label": "Miniml Dusk (-)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/miniml-dusk-minus-color-theme.json"
+      },
+      {
+        "label": "Miniml Light (Beta)",
         "uiTheme": "vs",
         "path": "./themes/miniml-light-color-theme.json"
       }

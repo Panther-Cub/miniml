@@ -1,8 +1,8 @@
 {
-	"name": "miniml-midnight",
+	"name": "miniml-midnight-minus-color-theme",
 	"colors": {
 		"activityBar.background": "#000000",
-		"activityBar.border": "#b4b4b420",  // Changed from #a5a5a500 to match other borders
+		"activityBar.border": "#00000000",  // Changed from #a5a5a500 to match other borders
 		"activityBar.foreground": "#b4b4b4e6",
 		"activityBarBadge.background": "#58a9c1",
 		"activityBarBadge.foreground": "#ffffffe2",
@@ -47,16 +47,16 @@
 		"editorBracketMatch.border": "#ebbf0050",
 		"editorCursor.foreground": "#ebbf00f2",
 		"editorError.foreground": "#ff53706a",
-		"editorGroup.border": "#b4b4b420",
+		"editorGroup.border": "#00000000",
 		"editorGroupHeader.noTabsBackground": "#000000",
 		"editorGroupHeader.tabsBackground": "#000000",
-		"editorGroupHeader.tabsBorder": "#b4b4b425",    // Added border above tabs
+		"editorGroupHeader.tabsBorder": "#00000000",    // Added border above tabs
 		"editorGroupHeader.border": "#00000000",        // Remove bottom border by making it transparent
 		"editorGutter.addedBackground": "#c3e88d60",
 		"editorGutter.deletedBackground": "#ff537060",
 		"editorGutter.modifiedBackground": "#82aaff60",
 		"editorHoverWidget.background": "#000000",
-		"editorHoverWidget.border": "#b4b4b420",
+		"editorHoverWidget.border": "#00000000",
 		"editorIndentGuide.activeBackground1": "#4c4c4c60", // Slightly more visible active indent guide
 		"editorIndentGuide.background1": "#92929215",       // More subtle inactive indent guide
 		"editorLineNumber.activeForeground": "#d1d1d1aa",  // Slightly more visible active line number
@@ -66,7 +66,7 @@
 		"editorOverviewRuler.border": "#00000000",  // Changed from #181818 to transparent
 		"editorRuler.foreground": "#b4b4b41e",
 		"editorSuggestWidget.background": "#000000",
-		"editorSuggestWidget.border": "#b4b4b420",
+		"editorSuggestWidget.border": "#00000000",
 		"editorSuggestWidget.foreground": "#b4b4b4f2",
 		"editorSuggestWidget.highlightForeground": "#58a9c1f2",
 		"editorSuggestWidget.selectedBackground": "#18181880",
@@ -127,7 +127,7 @@
         "notificationsInfoIcon.foreground": "#68b9d1f2",
         "notificationsWarningIcon.foreground": "#ebbf00f2",
 		"panel.background": "#000000",
-		"panel.border": "#b4b4b420",
+		"panel.border": "#00000000",
 		"panelTitle.activeBorder": "#58a9c1",
 		"panelTitle.activeForeground": "#b4b4b4e6",
 		"panelTitle.inactiveForeground": "#b4b4b4f2",
@@ -158,13 +158,13 @@
 		"settings.textInputBackground": "#000000",
 		"settings.textInputForeground": "#a1a1a1f2",
 		"sideBar.background": "#000000",
-		"sideBar.border": "#b4b4b420",
+		"sideBar.border": "#00000000",
 		"sideBar.foreground": "#b4b4b4e6",
 		"sideBarSectionHeader.background": "#000000",
-		"sideBarSectionHeader.border": "#b4b4b425",
+		"sideBarSectionHeader.border": "#00000000",
 		"sideBarTitle.foreground": "#b4b4b4f2",
 		"statusBar.background": "#000000",
-		"statusBar.border": "#b4b4b420",
+		"statusBar.border": "#00000000",
 		"statusBar.focusBorder": "#a5a5a500",
 		"statusBar.debuggingBackground": "#38383880",
 		"statusBar.debuggingForeground": "#a1a1a1f2",
@@ -177,7 +177,7 @@
 		"tab.activeBorder": "#58a9c1",
 		"tab.activeForeground": "#b4b4b4e6",
 		"tab.activeModifiedBorder": "#b4b4b480",
-		"tab.border": "#a5a5a500",
+		"tab.border": "#00000000",
 		"tab.inactiveBackground": "#000000",
 		"tab.inactiveForeground": "#c1c1c15b",
 		"tab.unfocusedActiveBorder": "#545454",
@@ -202,12 +202,12 @@
 		"textLink.foreground": "#58a9c1f2",
 		"titleBar.activeBackground": "#000000",
 		"titleBar.activeForeground": "#b4b4b4e6",
-		"titleBar.border": "#b4b4b420",
+		"titleBar.border": "#00000000",
 		"titleBar.inactiveBackground": "#000000",
 		"titleBar.inactiveForeground": "#b1b1b15b",
 		"tree.indentGuidesStroke": "#4c4c4c40",
 		"tree.inactiveIndentGuidesStroke": "#92929220",
-		"widget.border": "#b4b4b425",
+		"widget.border": "#00000000",
 		"extensionBadge.remoteForeground": "#d1d1d1f2",
         "foreground": "#b4b4b4e6",
         "keybindingLabel.foreground": "#d1d1d1f2",
@@ -255,7 +255,7 @@
         "testing.iconSkipped": "#929292f2",
         "testing.iconUnset": "#d1d1d1f2",
         "testing.message.info.decorationForeground": "#68b9d1f2",
-        "editorStickyScroll.border": "#b4b4b425",
+        "editorStickyScroll.border": "#00000000",
 	},
 	"tokenColors": [
 		{
